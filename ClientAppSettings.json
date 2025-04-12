@@ -28,7 +28,7 @@
   "FFlagLightingTechnologyVoxel": "True",
   "DFIntUserCameraFieldOfView": "105",
 
-VULKAN API
+--VULKAN API
   "FFlagDebugGraphicsDisableDirect3D11": "True",
   "FFlagDebugGraphicsPreferVulkan": "True"
 }
